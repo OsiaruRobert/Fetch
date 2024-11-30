@@ -55,13 +55,9 @@ Ads_Owner_E
 
 
 version control 
-Start_Of_latestVersion
-    2
-  End_Of_latestVersion
+Start_Of_latestVersion 2 End_Of_latestVersion
   
-  Start_Of_link
-  www.google.com
-  End_Of_link
+  Start_Of_link https://www.google.com End_Of_link
 
 
 
