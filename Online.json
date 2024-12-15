@@ -1,21 +1,40 @@
-Start_Of_Code
+Start_Of_Code   
   1.
+  Ads_MediaType_S iframe Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-    Ads_Url_S https://1.wordpress.com Ads_Url_E
-    Ads_Alt_S Online With Beta Ads_Alt_E
+  Ads_Vid_S https://www.youtube.com/embed/o_Ahgu1-zj4?autoplay=1&mute=1 Ads_Vid_E
+  Ads_ShowTime_S 1000 Ads_ShowTime_E
+  Ads_Url_S https://1.wordpress.com Ads_Url_E
+  Ads_Alt_S Online With Beta Ads_Alt_E
+  Ads_Category_S Education Ads_Category_E
+  Ads_SubCategory_S Toturial Ads_SubCategory_E
   Ads_Owner_S Owner1 Ads_Owner_E
+  
+  
  
   2.    
+  Ads_MediaType_S iframe Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-    Ads_Url_S https://2.wordpress.com Ads_Url_E
-        Ads_Alt_S Online With Beta Ads_Alt_E
-  Ads_Owner_S Owner2 Ads_Owner_E
+  Ads_Vid_S https://www.youtube.com/embed/o_Ahgu1-zj4?autoplay=1&mute=1 Ads_Vid_E
+  Ads_ShowTime_S 1000 Ads_ShowTime_E
+  Ads_Url_S https://1.wordpress.com Ads_Url_E
+  Ads_Alt_S Online With Beta Ads_Alt_E
+  Ads_Category_S Education Ads_Category_E
+  Ads_SubCategory_S Toturial Ads_SubCategory_E
+  Ads_Owner_S Owner1 Ads_Owner_E
+  
+  
   
   3.     
+  Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-  Ads_Url_S https://3.wordpress.com Ads_Url_E
-      Ads_Alt_S Online With Beta Ads_Alt_E
-  Ads_Owner_S Owner3 Ads_Owner_E
+  Ads_Vid_S https://www.youtube.com/embed/o_Ahgu1-zj4?autoplay=1&mute=1 Ads_Vid_E
+  Ads_ShowTime_S 1000 Ads_ShowTime_E
+  Ads_Url_S https://1.wordpress.com Ads_Url_E
+  Ads_Alt_S Online With Beta Ads_Alt_E
+  Ads_Category_S Education Ads_Category_E
+  Ads_SubCategory_S Toturial Ads_SubCategory_E
+  Ads_Owner_S Owner1 Ads_Owner_E
   
   
   
@@ -26,4 +45,13 @@ Start_Of_Code
   Start_Of_link https://www.amazon.com/gp/mas/dl/android?p=com.osiaru.cgpa  End_Of_link
   
   
-    End_Of_Code
+  
+  
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  Special Message 
+  Start_Of_If_Message true End_Of_If_Message
+  
+  Start_Of_Message Hi there  End_Of_Message
+  
+    
+  End_Of_Code
