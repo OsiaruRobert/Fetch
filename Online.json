@@ -2,7 +2,8 @@ Start_Of_Code
   1.
   Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-  Ads_ShowTime_S 10000 Ads_ShowTime_E
+    Ads_ShowTime_S 10000 Ads_ShowTime_E
+
   Ads_Url_S https://1.wordpress.com Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
@@ -14,7 +15,8 @@ Start_Of_Code
   2.    
   Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-  Ads_ShowTime_S 10000 Ads_ShowTime_E
+    Ads_ShowTime_S 10000 Ads_ShowTime_E
+
   Ads_Url_S https://1.wordpress.com Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
@@ -26,7 +28,8 @@ Start_Of_Code
   3.     
   Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-  Ads_ShowTime_S 1000 Ads_ShowTime_E
+    Ads_ShowTime_S 10000 Ads_ShowTime_E
+
   Ads_Url_S https://1.wordpress.com Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
