@@ -3,8 +3,7 @@ Start_Of_Code
   Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
     Ads_ShowTime_S 10000 Ads_ShowTime_E
-
-  Ads_Url_S https://1.wordpress.com Ads_Url_E
+    Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
   Ads_SubCategory_S Toturial Ads_SubCategory_E
@@ -16,8 +15,7 @@ Start_Of_Code
   Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
     Ads_ShowTime_S 10000 Ads_ShowTime_E
-
-  Ads_Url_S https://1.wordpress.com Ads_Url_E
+    Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
   Ads_SubCategory_S Toturial Ads_SubCategory_E
@@ -30,7 +28,7 @@ Start_Of_Code
   Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
     Ads_ShowTime_S 10000 Ads_ShowTime_E
 
-  Ads_Url_S https://1.wordpress.com Ads_Url_E
+  Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
   Ads_Alt_S Online With Beta Ads_Alt_E
   Ads_Category_S Education Ads_Category_E
   Ads_SubCategory_S Toturial Ads_SubCategory_E
@@ -50,7 +48,7 @@ Start_Of_Code
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   Special Message 
   Start_Of_If_MessageEnd_Of_If_Message
-  y
+  
   Start_Of_Message Hi there  End_Of_Message
   
     
