@@ -1,40 +1,55 @@
 Start_Of_Code   
   1.
   Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-    Ads_ShowTime_S 10000 Ads_ShowTime_E
-    Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
-  Ads_Alt_S Online With Beta Ads_Alt_E
-  Ads_Category_S Education Ads_Category_E
-  Ads_SubCategory_S Toturial Ads_SubCategory_E
-  Ads_Owner_S Owner1 Ads_Owner_E
-  
-  
+  Ads_Img_S Img/ads1.png Ads_Img_E
+  Ads_ShowTime_S 5000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
  
-  2.    
+  
   Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-    Ads_ShowTime_S 10000 Ads_ShowTime_E
-    Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
-  Ads_Alt_S Online With Beta Ads_Alt_E
-  Ads_Category_S Education Ads_Category_E
-  Ads_SubCategory_S Toturial Ads_SubCategory_E
-  Ads_Owner_S Owner1 Ads_Owner_E
-  
-  
-  
-  3.     
-  Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S https://lh3.googleusercontent.com/d/1Z_JRuKf0FXOIzVZc7SFi9yPCRcDbY1Kx Ads_Img_E
-    Ads_ShowTime_S 10000 Ads_ShowTime_E
-
-  Ads_Url_S https://app.subvas.com/dashboard/app Ads_Url_E
-  Ads_Alt_S Online With Beta Ads_Alt_E
-  Ads_Category_S Education Ads_Category_E
-  Ads_SubCategory_S Toturial Ads_SubCategory_E
-  Ads_Owner_S Owner1 Ads_Owner_E
-  
-  
+  Ads_Img_S Img/ads2.png Ads_Img_E
+  Ads_ShowTime_S 5000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
+ 
+ 
+ Ads_MediaType_S img Ads_MediaType_E
+  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_ShowTime_S 5000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
+ 
+ 
+ Ads_MediaType_S img Ads_MediaType_E
+  Ads_Img_S Img/ads1.png Ads_Img_E
+  Ads_ShowTime_S 5000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
+ 
+ 
+ Ads_MediaType_S img Ads_MediaType_E
+  Ads_Img_S Img/ads1.png Ads_Img_E
+  Ads_ShowTime_S 5000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
+ 
+ 
   
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   version control
