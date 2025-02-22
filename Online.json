@@ -13,7 +13,7 @@ Start_Of_Code
  
  Ads_MediaType_S img Ads_MediaType_E
   Ads_Img_S Img/CGP.png Ads_Img_E
-  Ads_ShowTime_S 50000 Ads_ShowTime_E
+  Ads_ShowTime_S 7000 Ads_ShowTime_E
   Ads_Url_S https://www.facebook.com/100089030595018/posts/668902726087408/?mibextid=rS40aB7S9Ucbxw6v Ads_Url_E
   Ads_Alt_S Click here to drop a comment/feedback on Facebook Ads_Alt_E
   Ads_Category_S General Ads_Category_E
