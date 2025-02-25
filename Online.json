@@ -10,12 +10,21 @@ Start_Of_Code
   Ads_SubCategory_S General Ads_SubCategory_E
   Ads_Owner_S Believe Robert Ads_Owner_E
  
+ Ads_MediaType_S img Ads_MediaType_E
+  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_ShowTime_S 10000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
+  Ads_Category_S General Ads_Category_E
+  Ads_SubCategory_S General Ads_SubCategory_E
+  Ads_Owner_S Believe Robert Ads_Owner_E
+ 
  
  Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S Img/CGP.png Ads_Img_E
-  Ads_ShowTime_S 7000 Ads_ShowTime_E
-  Ads_Url_S https://www.facebook.com/100089030595018/posts/668902726087408/?mibextid=rS40aB7S9Ucbxw6v Ads_Url_E
-  Ads_Alt_S Click here to drop a comment/feedback on Facebook Ads_Alt_E
+  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_ShowTime_S 10000 Ads_ShowTime_E
+  Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
+  Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
   Ads_Category_S General Ads_Category_E
   Ads_SubCategory_S General Ads_SubCategory_E
   Ads_Owner_S Believe Robert Ads_Owner_E
@@ -35,9 +44,13 @@ Start_Of_Code
   
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   Special Message 
-  Start_Of_If_MessageEnd_Of_If_Message
+  Start_Of_If_Message True End_Of_If_Message
   
-  Start_Of_Message Happy New Year 🌲🎊🎄End_Of_Message
+  Start_Of_Message  Good Morning Everyone , I could like to extend my sincerest apologies to each and every one of you who has used my app download link and was unexpectedly redirected to unwanted content. I understand how frustrating and disappointing this must have been for you.
+
+Please know that I'm taking immediate action to resolve this issue. I'm currently in the process of migrating the app to my own website, where I'll have full control over the user experience.
+
+I appreciate your patience and understanding during this transition. I'll keep you updated on my progress and will notify you as soon as the new link is ready. Thank you for your continued support. End_Of_Message
   
     
   End_Of_Code
