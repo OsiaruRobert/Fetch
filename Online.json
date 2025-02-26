@@ -42,11 +42,9 @@ Start_Of_Code
   
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   Special Message 
-  Start_Of_If_Message True End_Of_If_Message
+  Start_Of_If_MessageEnd_Of_If_Message
   
-  Start_Of_Message Good morning! ☀️ We're excited to announce that our CGPA Calculator app is now available for download at  https://cgpaplanner.fast-page.org  ! 🎉
-
-Experience a seamless and intuitive calculation process, designed to make your academic journey easier. Thank you for your patience and continued support! 😊 End_Of_Message
+  Start_Of_Message IOS version coming soon End_Of_Message
   
     
   End_Of_Code
