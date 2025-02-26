@@ -2,7 +2,7 @@ Start_Of_Code
   1.
   
  Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_Img_S Img/ads1.png Ads_Img_E
   Ads_ShowTime_S 10000 Ads_ShowTime_E
   Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
   Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
@@ -11,7 +11,7 @@ Start_Of_Code
   Ads_Owner_S Believe Robert Ads_Owner_E
  
  Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_Img_S Img/ads2.png Ads_Img_E
   Ads_ShowTime_S 10000 Ads_ShowTime_E
   Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
   Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
@@ -21,22 +21,20 @@ Start_Of_Code
  
  
  Ads_MediaType_S img Ads_MediaType_E
-  Ads_Img_S Img/ads3.png Ads_Img_E
+  Ads_Img_S Img/ads1.png Ads_Img_E
   Ads_ShowTime_S 10000 Ads_ShowTime_E
   Ads_Url_S https://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/product%20in%20your%20app... Ads_Url_E
   Ads_Alt_S Boost Your Business! Click Here to Advertise Your Products in our app Ads_Alt_E
   Ads_Category_S General Ads_Category_E
   Ads_SubCategory_S General Ads_SubCategory_E
   Ads_Owner_S Believe Robert Ads_Owner_E
- 
- 
  
   
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   version control
   Start_Of_latestVersion 1 End_Of_latestVersion
   
-  Start_Of_linkhttps://fastupload.io/dafdd56400698a1dEnd_Of_link
+  Start_Of_linkhttps://cgpaplanner.fast-page.orgEnd_Of_link
   
   contact me.
   Start_Of_melinkhttps://wa.me/9064498317?text=Hi%20there%20I%20would%20like%20to%20advertise%20my%20business/productEnd_Of_melink
@@ -46,11 +44,9 @@ Start_Of_Code
   Special Message 
   Start_Of_If_Message True End_Of_If_Message
   
-  Start_Of_Message  Good Morning Everyone , I could like to extend my sincerest apologies to each and every one of you who has used my app download link and was unexpectedly redirected to unwanted content. I understand how frustrating and disappointing this must have been for you.
+  Start_Of_Message Good morning! ☀️ We're excited to announce that our CGPA Calculator app is now available for download at  https://cgpaplanner.fast-page.org  ! 🎉
 
-Please know that I'm taking immediate action to resolve this issue. I'm currently in the process of migrating the app to my own website, where I'll have full control over the user experience.
-
-I appreciate your patience and understanding during this transition. I'll keep you updated on my progress and will notify you as soon as the new link is ready. Thank you for your continued support. End_Of_Message
+Experience a seamless and intuitive calculation process, designed to make your academic journey easier. Thank you for your patience and continued support! 😊 End_Of_Message
   
     
   End_Of_Code
