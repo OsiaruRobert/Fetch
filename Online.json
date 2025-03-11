@@ -42,9 +42,9 @@ Start_Of_Code
   
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   Special Message 
-  Start_Of_If_MessageEnd_Of_If_Message
+  Start_Of_If_Message true End_Of_If_Message
   
-  Start_Of_Message IOS version coming soon End_Of_Message
+  Start_Of_Message Join our telegram channel at______ https://t.me/osiaruApps. End_Of_Message
   
     
   End_Of_Code
